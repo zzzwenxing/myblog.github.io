@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zzzwx.xyz/friends/index.html</loc>
+    
+    <lastmod>2019-10-14T15:36:30.640Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzzwx.xyz/contact/index.html</loc>
+    
+    <lastmod>2019-10-14T15:34:36.633Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zzzwx.xyz/about/index.html</loc>
     
-    <lastmod>2019-10-14T14:46:09.480Z</lastmod>
+    <lastmod>2019-10-14T14:47:22.261Z</lastmod>
     
   </url>
   
@@ -12,20 +26,6 @@
     <loc>https://zzzwx.xyz/tags/index.html</loc>
     
     <lastmod>2019-10-13T14:48:02.997Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zzzwx.xyz/friends/index.html</loc>
-    
-    <lastmod>2019-10-13T14:48:02.996Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zzzwx.xyz/contact/index.html</loc>
-    
-    <lastmod>2019-10-13T14:48:02.995Z</lastmod>
     
   </url>
   
