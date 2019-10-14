@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zzzwx.xyz/about/index.html</loc>
+    
+    <lastmod>2019-10-14T14:46:09.480Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zzzwx.xyz/tags/index.html</loc>
     
     <lastmod>2019-10-13T14:48:02.997Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://zzzwx.xyz/archives/index.html</loc>
     
     <lastmod>2019-10-13T14:48:02.992Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zzzwx.xyz/about/index.html</loc>
-    
-    <lastmod>2019-10-13T14:48:02.991Z</lastmod>
     
   </url>
   
